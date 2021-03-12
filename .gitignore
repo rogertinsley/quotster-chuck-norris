@@ -28,3 +28,10 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+#SERVERLESS STUFF
+admin.env
+.env
+_meta
+.serverless
+.serverless_nextjs
