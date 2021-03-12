@@ -1,1 +1,7 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Quotster Chuck Norris
+
+Built with nextjs & deployed to lambda@edge via serverless
+
+```bash
+npm run dev
+```
